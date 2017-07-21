@@ -1,4 +1,4 @@
-package FunExamples.FunExamples;
+package projectEuler;
 
 public class MultiplesOf3And5 {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package FunExamples.FunExamples;
+package hackerrank;
 
 import java.util.Scanner;
 
